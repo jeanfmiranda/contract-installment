@@ -47,8 +47,4 @@ public class Contract {
     public List<Installment> getInstallments() {
         return installments;
     }
-
-    public void setInstallments(List<Installment> installments) {
-        this.installments = installments;
-    }
 }
